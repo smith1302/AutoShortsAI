@@ -45,5 +45,3 @@ Interested in contributing? We welcome contributions of all forms, from bug repo
 
 For more information and updates, follow us on [YouTube](https://www.youtube.com/@autoshortsapp)
 
-google-site-verification: google60b4c3798140b0bc.html
-
